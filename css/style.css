@@ -1,0 +1,52 @@
+.left {
+    min-height: 550px;
+    background-color: blue;
+}
+
+.right {
+    min-height: 550px;
+    background-origin: #ddd;
+}
+
+.left-text {
+    text-align: center;
+    padding-top: 200px;
+    padding-right: 100px;
+}
+
+.left-text h6 {
+    color: white;
+    margin-bottom: 25px;
+}
+
+.sinup {
+    border-radius: 30px;
+    margin-bottom: 10px;
+}
+
+.login {
+    border-radius: 30px;
+    border: 1px solid blue;
+    color: blue;
+    background-color: white;
+}
+
+.card {
+    text-align: center;
+    padding-top: 100px;
+    border: none;
+}
+
+.card-h5 {
+    margin-left: -40px;
+}
+
+.input-field {
+    margin-top: 20px;
+}
+
+.round {
+    border-radius: 20px;
+    background: white;
+    color: blue;
+}
